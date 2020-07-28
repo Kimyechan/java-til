@@ -124,7 +124,7 @@ public class Operator {
         System.out.printf("b%32s\n", Integer.toBinaryString(1423 << 4));
 
         System.out.printf("b%32s\n", Integer.toBinaryString(-1 ));
-        System.out.printf("b%32s\n", Integer.toBinaryString(-1 >> 1));
+        System.out.printf("b%32s\n", Integer.toBinaryString(-1 >> 1)); // 왼쪽 1
         System.out.printf("b%32s\n", Integer.toBinaryString(-1 >>> 1)); //sign 비트와 무관하게 0
 
         int intVal = 4123;

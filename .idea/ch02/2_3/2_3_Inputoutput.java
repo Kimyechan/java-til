@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 출력 - print println printf, 포멧팅 방법
  * 입력 - 키보드 입력 받기
  */
-public class Output {
+public class Inputoutput {
 
     public static void main(String[] args) {
         //출력 메소드, println -> 오버로딩
