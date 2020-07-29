@@ -45,6 +45,7 @@ int biggerInt = bigInt + 1;
     * Decimal(10)
     * Hexadecimal(16) -> 앞에 0x
 ###실수형
+
 ###문자형
 ###논리형
 ###문자열
